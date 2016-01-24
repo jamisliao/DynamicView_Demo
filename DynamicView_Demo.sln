@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicView_Demo", "DynamicView_Demo\DynamicView_Demo.csproj", "{F20EEB22-1FF5-4B0F-B13A-FA3C4EF35228}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicView_Demo.Test", "DynamicView_Demo.Test\DynamicView_Demo.Test.csproj", "{813EE8E6-4073-46F8-99EB-917D7276D8E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F20EEB22-1FF5-4B0F-B13A-FA3C4EF35228}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F20EEB22-1FF5-4B0F-B13A-FA3C4EF35228}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F20EEB22-1FF5-4B0F-B13A-FA3C4EF35228}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F20EEB22-1FF5-4B0F-B13A-FA3C4EF35228}.Release|Any CPU.Build.0 = Release|Any CPU
+		{813EE8E6-4073-46F8-99EB-917D7276D8E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{813EE8E6-4073-46F8-99EB-917D7276D8E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{813EE8E6-4073-46F8-99EB-917D7276D8E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{813EE8E6-4073-46F8-99EB-917D7276D8E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
