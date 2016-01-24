@@ -29,7 +29,7 @@ namespace DynamicView_Demo.Models.Helper
             }
             else if (pageName == "View2")
             {
-                content = string.Format("<div>I am {0}</div><div>PageName : {1}</div><div>Now time : {2}</div>", id, pageName, dateTimeStr);
+                content = string.Format("<div>I am {0}</div><div>PageName : {1}</div>", id, pageName);
 
                 sb.AppendLine(content);
             }
