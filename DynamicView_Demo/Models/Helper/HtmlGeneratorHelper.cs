@@ -19,8 +19,7 @@ namespace DynamicView_Demo.Models.Helper
             StringBuilder sb = new StringBuilder();
             var content = string.Empty;
 
-            var dateTimeStr = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
-
+            //// 根據pagename給出不同的content
             if (pageName == "View1")
             {
                 content = string.Format("<div>I am {0}</div><div>PageName : {1}</div>", id, pageName);
